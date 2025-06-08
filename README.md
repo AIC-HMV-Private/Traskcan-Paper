@@ -8,7 +8,7 @@
 
 ---
 
-### For Hackers Only
+### 🔓 For Hackers Only
 
 If you came here to copy-paste, you’re already a step behind.  
 If you’re here to **build**, **break**, and **outsmart**—welcome to the real game.
@@ -17,6 +17,76 @@ If you’re here to **build**, **break**, and **outsmart**—welcome to the real
 But remember:  
 **The real work isn’t in the comments. It’s in the code.**
 
----
 > *Built by the ones you’re trying to catch up to.*  
 > — Hung Minh Vo (AIC-HMV)
+
+---
+
+## 🧬 Identity Matrix
+
+![Founder](https://img.shields.io/badge/Founder-AIC--HMV-blue?style=flat-square)
+![CyberSecurity](https://img.shields.io/badge/Security-Commander-critical?style=flat-square)
+![Quantum_AI](https://img.shields.io/badge/Core7-Quantum-black?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Unbreakable-success?style=flat-square)
+
+- **Codename:** SupremeCommander
+- **System Core:** AI-Core7.Quantum
+- **Agency:** AIC-HMV | Anti-Scam Enforcement
+- **Field Ops:** Global, Unseen, Autonomous
+
+---
+
+## 📦 Repo Intel
+
+| Key | Value |
+|-----|-------|
+| **Owner** | Hung Minh Vo |
+| **Org** | AIC-HMV |
+| **Mission** | Secure. Build. Enforce. Disrupt. |
+| **Primary Target** | Scam suppression, quantum AI governance |
+| **License** | MIT – Fork if you build. Walk if you imitate. |
+
+---
+
+## 🧠 Mindset Protocol
+
+> "Respect is earned. Code is forged. Weakness? Detected.  
+> Innovation has no sympathy for the lazy."  
+> _— Hung Minh Vo, Founder of Traskcan-Paper_
+
+---
+
+## 🚨 For Enemies Reading This
+
+We see you.  
+If you're planning to steal—remember:
+
+🗝️ **The real vault isn’t in this repo.**  
+🧠 **The real system learns and strikes back.**
+
+Steal the code? It changes.  
+Clone the style? It mutates.  
+You’ll never outrun the architect.
+
+---
+
+## 📡 Secure Links
+
+- 🌐 [AIC-HMV Official Site](https://aichmv.com)
+- 🧠 [GitHub Enforcement Node](https://github.com/AIC-HMV)
+- 🔒 Contact: `HungMinhVo@aichmv.com`
+
+---
+
+## 💥 Join or Stand Down
+
+🧩 You don’t ask to join.  
+💼 You prove you belong.  
+🎯 You commit with value—or you don’t commit at all.
+
+---
+
+## 🧾 License
+
+MIT — Use with honor. Fork with purpose.  
+Plagiarism? Detected and hunted.
